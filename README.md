@@ -1,16 +1,21 @@
-# Hey, I'm Nate!
+# ALOHA ~ I'm Cole!
 
-### I build beautiful, intuitive CLI tools that empower fellow creatives as part of [Bombshell](https://github.com/bombshell-dev).
+### Life-long learner in pursuit of making the world a better place one line of code at a time 👨‍💻 🌐 🌎 .
 
-Currently working on UX at [Sentry](https://sentry.io/). Previously, I co-created [Astro](https://github.com/withastro/astro) as a founding engineer at [The Astro Technology Company](https://astro.build/blog/the-astro-technology-company/). Before that, I built [Microsite](https://github.com/natemoo-re/microsite), the first web framework for [islands architecture](https://www.patterns.dev/vanilla/islands-architecture/).
+<!-- Currently working on UX at [Sentry](https://sentry.io/). Previously, I co-created [Astro](https://github.com/withastro/astro) as a founding engineer at [The Astro Technology Company](https://astro.build/blog/the-astro-technology-company/). Before that, I built [Microsite](https://github.com/natemoo-re/microsite), the first web framework for [islands architecture](https://www.patterns.dev/vanilla/islands-architecture/). -->
 
-My passion for building high-polish, delightful devtools is informed by my background in print design, desire to sweat the details, and refusal to settle for tools that can only be described as "good enough".
+I am currently a Resident Software Engineer at [Headstarter](https://headstarter.co) working on cutting edge AI/ML and full-stack projects. Previously I have pursued my passion for developing and bettering my community through contract work with the City and co-founding [H2OC](https://github.com/ecadiena/H20C) helping to Protect Oahu Condominiums.
 
-**Radically empathetic technology illuminates our path towards a more just future.**
+Looking forward to continue learning and building:
 
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+- Building recommendation system and application for users to find new music[(JAMMON)](https://github.com/Cole-House/Jammon)
+- Participate in Hackathons and Open-source
 
----
+**<--- Check out my personal site and contact me to collab!**
+
+<!-- <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a> -->
+
+<!-- ---
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -27,13 +32,13 @@ My passion for building high-polish, delightful devtools is informed by my backg
     <tr>
       <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr>
     <tr>
       <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr>
     <tr>
       <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
     </tr>
   </tbody>
-</table>
+</table> -->

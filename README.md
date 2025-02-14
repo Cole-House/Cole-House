@@ -1,14 +1,14 @@
-# ALOHA ~ I'm Cole!
+# 🌺 ALOHA 🌊 I'm Cole!
 
 ### Life-long learner in pursuit of making the world a better place one line of code at a time 👨‍💻 🌐 🌎 .
 
 <!-- Currently working on UX at [Sentry](https://sentry.io/). Previously, I co-created [Astro](https://github.com/withastro/astro) as a founding engineer at [The Astro Technology Company](https://astro.build/blog/the-astro-technology-company/). Before that, I built [Microsite](https://github.com/natemoo-re/microsite), the first web framework for [islands architecture](https://www.patterns.dev/vanilla/islands-architecture/). -->
 
-I am currently a Resident Software Engineer at [Headstarter](https://headstarter.co) working on cutting edge AI/ML and full-stack projects. Previously I have pursued my passion for developing and bettering my community through contract work with the City and co-founding [H2OC](https://github.com/ecadiena/H20C) helping to Protect Oahu Condominiums.
+I am currently a Resident Software Engineer at [Headstarter](https://headstarter.co) working on cutting edge AI/ML and full-stack projects. Previously I have pursued my passion for programming and bettering my community through contract work with the City and co-founding [H2OC](https://www.youtube.com/watch?v=2SWbr4vUf_A) Helping 2 Protect Oahu Condominiums.
 
 Looking forward to continue learning and building:
 
-- Building recommendation system and application for users to find new music[(JAMMON)](https://github.com/Cole-House/Jammon)
+- Building recommendation system utilizing NLP and vector embeddings for[(JAMMON)](https://github.com/Cole-House/Jammon) an application for listeners to find new music and artists to find new listeners
 - Participate in Hackathons and Open-source
 
 **<--- Check out my personal site and contact me to collab!**

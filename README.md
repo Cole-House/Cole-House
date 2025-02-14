@@ -1,4 +1,4 @@
-# 🌺 ALOHA 🌊 I'm Cole!
+# 🌊 ALOHA 🤙 I'm Cole!
 
 ### Life-long learner in pursuit of making the world a better place one line of code at a time 👨‍💻 🌐 🌎 .
 

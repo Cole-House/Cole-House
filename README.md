@@ -11,7 +11,7 @@ Looking forward to continue learning and building:
 - Building recommendation system utilizing NLP and vector embeddings for[(JAMMON)](https://github.com/Cole-House/Jammon) an application for listeners to find new music and artists to find new listeners
 - Participate in Hackathons and Open-source
 
-**<--- Check out my personal site and contact me to collab!**
+**<--- Check out my personal [site](https://cole-house-portfolio.vercel.app) and contact me to collab!**
 
 <!-- <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a> -->
 
